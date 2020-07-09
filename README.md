@@ -1,2 +1,2 @@
 # bookjos
-I write KUSOZAKOMAMEKUGI cord.
+I write KUSOZAKOMAMEKUGI code.
